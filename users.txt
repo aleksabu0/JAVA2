@@ -1,0 +1,3 @@
+abuyu:pas1:admin
+student1:pas2:student
+djoker:nole:student

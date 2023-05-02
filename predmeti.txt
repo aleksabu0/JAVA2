@@ -1,0 +1,2 @@
+matematika:test1,25,50:test2,25,50
+fizika:test1,17,33:test2,17,33:test3,18,34

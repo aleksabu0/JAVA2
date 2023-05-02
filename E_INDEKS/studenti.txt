@@ -1,0 +1,4 @@
+aleksa:bu:e1-2018:1210444444999:matematika,30-30:fizika,20-20-20
+djokic:novak:e2/2020:1111444444999:bio,45-40:NoviPredmet,55-7
+marko:vic:e1-2010:1111555555999:NoviPredmet,20-20:bio,10-10
+ah:bh:E3/2000:1111222222981:Elektro,10-10-20

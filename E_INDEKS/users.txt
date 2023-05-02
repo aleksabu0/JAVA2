@@ -1,0 +1,10 @@
+abuyu:pas1:admin
+admin2:pasa:admin
+student1:pas2:student
+djoker:nole:student
+novias:aa:admin
+
+Uneti tekst:Uneti tekst:admin
+novi:add:admin
+marko:vic:student
+aa:bb:student

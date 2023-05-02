@@ -1,0 +1,11 @@
+matematika:test1,25,50:test2,25,50
+fizika:test1,17,33:test2,17,33:test3,18,34
+bio:t1,25,50:t2,25,50
+hem:t1,25,50:t2,25,50
+
+NoviPredmet:Ta,30,60:Tb,20,40
+Elektro:a,15,30:b,15,30:c,20,40
+Uneti tekst:t1,50,100
+Ime:t1,30,60:t2,20,40
+t222:t1,30,40:t2,20,60
+p3:t1,10,20:t2,20,80
